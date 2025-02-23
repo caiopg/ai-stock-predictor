@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s06866h",
+  "description": "https://scrimba.com/the-ai-engineer-path-c02v/~015/s0jd9l6i7k/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
